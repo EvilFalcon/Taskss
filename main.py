@@ -7,7 +7,7 @@ tasks = [
 
 def Main():
     for task in tasks:
-        task.Get_Solution()
+        task.Show_Solution()
 
 
 if __name__ == '__main__':
