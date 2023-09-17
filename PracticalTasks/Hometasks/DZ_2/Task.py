@@ -12,9 +12,9 @@ def Main():
 
 
 def SetFormatting():
-    replaceable = int(input("Ведите номербуквы (а) которая будет заменина : ")) - 1
-    replace = int(input("Ведите номер буквы (б) которая заменит букву (а)")) - 1
-    changeRegister = int(input("Ведите номер буквы (с) у которой будет изменён регистер")) - 1
+    replaceable = int(input("Введите номер буквы (а) которая будет заменена: ")) - 1
+    replace = int(input("Введите номер буквы (б) которая заменит букву (а)")) - 1
+    changeRegister = int(input("Введите номер буквы (с) у которой будет изменён регистр")) - 1
 
     return [replaceable, replace, changeRegister]
 
