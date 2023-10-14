@@ -1,4 +1,4 @@
-from PracticalTasks.Hometasks.DZ__1.Task import Task
+from PracticalTasks.Hometasks.DZ_1.Task import Task
 
 
 def Main():
