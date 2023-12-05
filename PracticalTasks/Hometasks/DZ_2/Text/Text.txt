@@ -1,1 +1,1 @@
-The constructor builds a tuple whose items are the same and in the same order as iterable’s items.
+The constructor builds a tuple whose items are the same and in the same order as iterable’s items.толя лох
